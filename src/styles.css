@@ -1,0 +1,9 @@
+/* Your CSS goes here */
+button:disabled {
+  background-color: #aaac55;
+}
+.pagination {
+  display: flex;
+  align-items: center;
+  gap: 2rem;
+}
